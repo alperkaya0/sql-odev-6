@@ -9,10 +9,10 @@ ENGLISH:
 
 --Code the given query scenarios by using the example database dvdrental.
 
---What is the average of the rental_rate column values that reside at the film data table ?
+--What is the average of the rental_rate column's values that reside at the film data table ?
 --How many rows of the film data table starts with character 'C' ?
---What is the length of the longest film that has rental_rate column value equals to 0.99 ?
---How many distinct replacement_cost values are there for the films that have length column value bigger than 150 ?
+--What is the length of the longest film that has rental_rate column's value equals to 0.99 ?
+--How many distinct replacement_cost values are there for the films that have length column's value bigger than 150 ?
 
 TURKISH:
 
